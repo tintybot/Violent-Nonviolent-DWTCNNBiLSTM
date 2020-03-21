@@ -1,4 +1,4 @@
-# tintybot--tintybot-intybot-Violent-Nonviolent-DWTCNNBiLSTM-This model uses spatial as well as temporal features to classify between violent and non-violent activities
+# Violent-Nonviolent-DWTCNNBiLSTM-This model uses spatial as well as temporal features to classify between violent and non-violent activities
 
 Getting Started
 Python 3.7 must be installed.
@@ -20,7 +20,6 @@ Versioning
 Authors
 Rohit Halder - Initial work - tintybot
 Rajdeep Chatterjee - Guidance work
-Debarshi Kumar Shanyal - Guidance work
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
